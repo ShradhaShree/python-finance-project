@@ -27,4 +27,7 @@ Getting started with plotly, dash and running the application.
 >python3 run.py <api-key>
 >```
 
+The dashboard runs on: http://127.0.0.1:8050/
+
+
 This project was done as a part of Program for Cultural Heritage at Pratt Institute.
