@@ -29,6 +29,7 @@ Getting started with plotly, dash and running the application.
 
 The dashboard runs on: http://127.0.0.1:8050/
 
+![Image of dashboard]
 (https://user-images.githubusercontent.com/25801562/70384817-8a360f00-1953-11ea-9920-eae1841fdfc0.png)
 
 
