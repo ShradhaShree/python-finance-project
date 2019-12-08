@@ -3,14 +3,14 @@ import json
 import sys
 
 def get_stock_data():
-    '''
+    ```
     Getting all data
     list of stocks
     loop through the stocks - for each:
       build new url for each stock
       do get call using that url
       save each returned answer in json file
-    '''
+    ```
 
     #forming url to get historical data
     host_url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/"

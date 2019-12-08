@@ -5,14 +5,14 @@ import sys
 import datetime
 
 def transform_to_csv():
-    '''
+    ```
     Transforming pulled data to csv file
     loop through stocks - for each:
       build file name
       read json data from that file name
       loop through json data for each line of data:
         append to new csv file
-    '''
+    ```
 
     stocks = ["GOOGL", "FB","AMZN","NFLX"]
     data_folder = "./data/"

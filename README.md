@@ -13,17 +13,18 @@ For more information, see [Time Series Plotly](https://plot.ly/python/time-serie
 Getting started with plotly, dash and running the application.
 
 - Install [plotly](https://plot.ly/python/getting-started/)
-'''
-$ pip3 install plotly==4.3.0
-'''
+>```sh
+>pip3 install plotly==4.3.0
+>```
 
 - Install [dash](https://dash.plot.ly/installation)
-'''
-pip3 install dash==1.7.0
-'''
+>```sh
+>pip3 install dash==1.7.0
+>```
+
 - Run the application
-'''
-python3 run.py <api-key>
-'''
+>```sh
+>python3 run.py <api-key>
+>```
 
 This project was done as a part of Program for Cultural Heritage at Pratt Institute.

@@ -9,10 +9,9 @@ import plotly.graph_objs as go
 
 from dash.dependencies import Input, Output
 
-'''
-credit:
-link:
-'''
+```
+link: https://github.com/plotly/simple-example-chart-apps/tree/master/dash-timeseriesplot
+```
 
 get_stock_data()
 transform_to_csv()
